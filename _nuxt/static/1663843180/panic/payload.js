@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/panic", {data:[{}],fetch:{},mutations:void 0});
